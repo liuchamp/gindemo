@@ -1,0 +1,12 @@
+coverage/
+.idea/
+run/
+logs/
+.DS_Store
+.vscode
+*.swp
+*.lock
+lastupdate.tmp
+vendor/
+*.rdb
+*p1*
